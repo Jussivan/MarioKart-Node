@@ -1,0 +1,24 @@
+{
+  "name": "mariokart-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "type": "module",
+  "scripts": {
+    "game": "node --watch src/game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jussivan/MarioKart-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jussivan/MarioKart-Node/issues"
+  },
+  "homepage": "https://github.com/Jussivan/MarioKart-Node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
