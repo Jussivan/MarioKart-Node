@@ -1,6 +1,6 @@
 # 🏎️ Mario Kart.JS
 
-Bem-vindo ao **Mario Kart.JS**, um projeto de simulação de corridas inspirado na clássica série **Mario Kart** da Nintendo! Este desafio foi proposto por **Felipão** e implementado em JavaScript puro para rodar diretamente no terminal.
+Bem-vindo ao **Mario Kart.JS**, um projeto de simulação de corridas inspirado na clássica série **Mario Kart** da Nintendo! Este desafio foi implementado em JavaScript puro para rodar diretamente no terminal.
 
 ---
 
