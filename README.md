@@ -26,7 +26,7 @@ Simular uma corrida entre dois personagens do universo Mario Kart com base em su
 ## 🛣️ Regras & Mecânicas
 
 ### 🎲 Estrutura da Corrida
-- A corrida tem 5 rodadas.
+- O usuário define o número de voltas.
 - A cada rodada, é sorteado um **bloco de pista**:
   - **RETA** → disputa baseada na **velocidade**
   - **CURVA** → disputa baseada na **manobrabilidade**
@@ -52,6 +52,6 @@ Simular uma corrida entre dois personagens do universo Mario Kart com base em su
 
 ## 🏁 Condição de Vitória
 
-- Ao final das 5 rodadas, vence o personagem que tiver **mais pontos acumulados**.
+- Ao final de todas as rodadas, vence o personagem que tiver **mais pontos acumulados**.
 
 ---
